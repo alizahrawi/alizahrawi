@@ -4,7 +4,7 @@
 
 # Ali Zahrawi
 
-> Business Development Manager
+> Business Development Manager . MCSA . CCNA .CBDA . MBA
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=alizahrawi&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87186461%3Fu%3D41397a775d13954c6deee4a0185aae384b0fdfb0%26v%3D4" alt="alizahrawi hero visual" />
