@@ -6,6 +6,10 @@
 
 > Technical founder
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=alizahrawi&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87186461%3Fu%3D41397a775d13954c6deee4a0185aae384b0fdfb0%26v%3D4" alt="alizahrawi hero visual" />
+</p>
+
 </div>
 
 ## The point of view
@@ -17,6 +21,10 @@
 *Small, useful work over vague claims.*
 
 ## What I’m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=alizahrawi&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87186461%3Fu%3D41397a775d13954c6deee4a0185aae384b0fdfb0%26v%3D4" alt="alizahrawi highlights visual" />
+</p>
 
 <p><b>Ali Zahrawi</b> is shipping 2 public projects with 0 stars of proof.</p>
 
@@ -35,6 +43,9 @@
 
 ## Start a conversation
 
-<a href="https://github.com/alizahrawi">GitHub</a> · <a href="https://x.com/alizahrawii">X</a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=alizahrawi&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87186461%3Fu%3D41397a775d13954c6deee4a0185aae384b0fdfb0%26v%3D4" alt="alizahrawi social visual" />
+</p>
 
+<a href="https://github.com/alizahrawi">GitHub</a> · <a href="https://x.com/alizahrawii">X</a>
 
